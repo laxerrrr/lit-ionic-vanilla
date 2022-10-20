@@ -1,0 +1,6 @@
+{
+  "appId": "com.letsdothis",
+  "appName": "letsdothis",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

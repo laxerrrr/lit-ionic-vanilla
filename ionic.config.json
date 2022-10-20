@@ -1,0 +1,7 @@
+{
+  "name": "letsdothis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
